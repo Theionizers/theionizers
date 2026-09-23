@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **aditya.24605@knit.ac.in** For Collaboration/Project or An
 - 😄 **Pronouns:** the_ionizers
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 
-I am a student at Kamla Nehru Institute of Technology with a strong interest in Data Structures and Algorithms. I enjoy solving problems and continuously improving my problem-solving skills through regular practice.<br><br>Alongside DSA, I am actively working on AI and Machine Learning projects, where I explore real-world applications and try to build practical solutions.<br><br>I am also a member of the Programming and TechSkills Club (KNIT), where I collaborate with peers, participate in technical activities, and work on improving my overall technical skill set.
+I am a student at Kamla Nehru Institute of Technology with a strong interest in Data Structures and Algorithms. I enjoy solving problems and continuously improving my problem-solving skills through regular practice.<br><br>Alongside DSA, I am actively working on AI and Machine Learning projects, where I explore real-world applications and try to build practical solutions.<br><br>I am also a member of the Programming and TechSkills Club (KNIT), where I collaborate with peers, participate in technical activities, and work on improving my overall technical skill set.1
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
